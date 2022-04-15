@@ -567,6 +567,10 @@ img {
     width: 90%;
 }
 
+.skills__nest {
+    width: 80%
+}
+
 .skills__native{
     width: 80%;
 }
@@ -580,6 +584,9 @@ img {
 }
 
 .skills__sql{
+    width: 80%;
+}
+.skills__psql{
     width: 85%;
 }
 
