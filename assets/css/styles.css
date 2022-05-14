@@ -1033,7 +1033,6 @@ img {
     width: 100%;
     height: 100%;
   }
-
 .footer__social:hover {
     color: var(--first-color-lighter);
 }
